@@ -5,7 +5,7 @@
   </a>
 </div>
 
-## My name is Yulia Nikitina
+### About me
 
 
 The experience of working in various fields allowed me to identify and master exactly the area in which I can bring maximum benefit - analytics.
