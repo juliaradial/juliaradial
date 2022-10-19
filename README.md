@@ -16,6 +16,14 @@ The ability to have clear and effective communication came from sales.
 Thanks to the Yandex advanced training course, I refreshed my knowledge of statistics and economics. In addition, I learned Python, SQL and visualization tools well.
 I am currently taking an Advanced SQL course.
 
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>
+</div>
 <!--
 **juliaradial/juliaradial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
